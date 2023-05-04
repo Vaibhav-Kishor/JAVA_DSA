@@ -14,3 +14,4 @@ public class Swap {
         System.out.println("Num1 : "+num1  +", Num2: "+num2);
     }
 }
+

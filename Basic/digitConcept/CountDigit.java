@@ -1,4 +1,4 @@
-package Basic;
+package Basic.digitConcept;
 
 
 import java.util.Scanner;
