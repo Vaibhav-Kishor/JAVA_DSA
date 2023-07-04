@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Checking Prime number for t test cases
  */
-public class Prime {
+public class AllPrime {
 
      public static void main(String [] args){
           Scanner scn = new Scanner(System.in);                
@@ -34,8 +34,7 @@ public class Prime {
                }
                
 
-          }
-     
+          }   
           
         
      }
